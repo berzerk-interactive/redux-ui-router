@@ -15,10 +15,6 @@
 $ npm install redux-ui-router
 ````
 
-**Documentation is currently work in progress, see [the example here](https://github.com/neilff/redux-ui-router/tree/master/example).**
-
-Heavily inspired by [Redux React Router](https://github.com/acdlite/redux-react-router) by [Andrew Clark](https://github.com/acdlite)
-
 ## Table of Contents
 
 - [Reducer](#reducer)
@@ -149,5 +145,6 @@ To run the example:
 git clone https://github.com/neilff/redux-ui-router/
 npm install
 cd example
+npm install
 npm run start
 ```
